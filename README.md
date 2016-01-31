@@ -31,7 +31,7 @@ http://i1.wp.com/slicode.com/wp-content/uploads/2015/10/Upload_Result.gif
 
 # Usage 
 
-
+just add the `SlideScaleTransition` file to your project and follow the demo project which is well explined in the blog 
 
 
 
