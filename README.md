@@ -15,5 +15,26 @@ so in the code we are dfining the enu specify for push or pop the view controlle
   } SLideScaleAnimationType;`
   
   in the transition we are tracking the following the information of the cell
-  
-  
+
+`cellFrame` with is used to hold the frame of the collection view cell,
+`startImageView` image view we are using for animation,
+`cutomAnimationType` we are specifying which animation we are going to perform weather we are pushing or popping.
+
+all otehr details of the project is described in the below blog 
+
+http://slicode.com/custom-transition-collection-view-ios/
+
+
+final result of the project is like below
+
+http://i1.wp.com/slicode.com/wp-content/uploads/2015/10/Upload_Result.gif
+
+# Usage 
+
+
+
+
+
+
+
+
