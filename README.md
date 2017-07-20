@@ -20,7 +20,7 @@ so in the code we are dfining the enu specify for push or pop the view controlle
 `startImageView` image view we are using for animation,
 `cutomAnimationType` we are specifying which animation we are going to perform weather we are pushing or popping.
 
-all otehr details of the project is described in the below blog 
+all other details of the project is described in the below blog, 
 
 http://slicode.com/custom-transition-collection-view-ios/
 
